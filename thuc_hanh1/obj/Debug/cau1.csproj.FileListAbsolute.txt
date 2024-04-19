@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\thuc_hanh1\thuc_hanh1\bin\Debug\thuc_hanh1.exe.config
+C:\Users\USER\source\repos\thuc_hanh1\thuc_hanh1\bin\Debug\thuc_hanh1.exe
+C:\Users\USER\source\repos\thuc_hanh1\thuc_hanh1\bin\Debug\thuc_hanh1.pdb
+C:\Users\USER\source\repos\thuc_hanh1\thuc_hanh1\obj\Debug\cau1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\thuc_hanh1\thuc_hanh1\obj\Debug\thuc_hanh1.Form1.resources
+C:\Users\USER\source\repos\thuc_hanh1\thuc_hanh1\obj\Debug\thuc_hanh1.Properties.Resources.resources
+C:\Users\USER\source\repos\thuc_hanh1\thuc_hanh1\obj\Debug\cau1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\thuc_hanh1\thuc_hanh1\obj\Debug\cau1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\thuc_hanh1\thuc_hanh1\obj\Debug\thuc_hanh1.exe
+C:\Users\USER\source\repos\thuc_hanh1\thuc_hanh1\obj\Debug\thuc_hanh1.pdb
